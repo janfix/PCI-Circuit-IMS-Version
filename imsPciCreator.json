@@ -27,7 +27,7 @@
             "./interaction/runtime/js/assets.js",
             "./interaction/runtime/js/demoAssets.js",
             "./interaction/runtime/js/deppAssets.js",
-            "./interaction/runtime/js/core/circuit2json.js",
+            "./interaction/runtime/js/core/circuit2Json.js",
             "./interaction/runtime/js/core/circuiteditor.js",
             "./interaction/runtime/js/core/circuitSolver.js",
             "./interaction/runtime/js/core/component.js",
